@@ -27,7 +27,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rosy179&show_icons=true&theme=rose_pine" alt="Trang's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rosy179&show_icons=true&theme=pastel" alt="Trang's GitHub stats" />
 </p>
 
 ---
