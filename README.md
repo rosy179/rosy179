@@ -14,7 +14,7 @@
   `Java`, `Spring Boot`, `RESTful APIs`, `JWT Authentication`
 
 - 🗄️ **Database & Auth:**  
-  `Supabase`, `MySQL`, `Google OAuth`, `Firebase (basic)`
+  `Supabase`, `MySQL`, `Postman`, `Google OAuth`,　`Facebook Devs`, `JWT`
 
 - 🤖 **AI Integration:**  
   Using OpenAI and Google AI Studio to create intelligent chatbots and face/skin analysis features.
@@ -27,7 +27,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rosy179&show_icons=true&theme=pastel" alt="Trang's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rosy179&show_icons=true&theme=pastel" alt="Trang's GitHub" />
 </p>
 
 ---
