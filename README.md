@@ -27,7 +27,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosy179&layout=compact&theme=pastel" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosy179&layout=compact&theme=pastel&cache_seconds=7200" />
 </p>
 
 
