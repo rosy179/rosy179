@@ -73,24 +73,44 @@
 
 ---
 
-## 📊 Bảng đánh giá hoạt động chăm chỉ của mình
+## 📊 GitHub Activity
 
-| Hạng mục | Mức độ | Minh chứng thực tế |
-|---|---|---|
-| Tần suất làm dự án | ⭐⭐⭐⭐⭐ | Nhiều repo trải từ 2024 → 2026, liên tục học và triển khai |
-| Khả năng tự học công nghệ mới | ⭐⭐⭐⭐⭐ | Tự mở rộng từ React/Next sang Flask, Spring Boot, ML/AI |
-| Tinh thần teamwork | ⭐⭐⭐⭐☆ | Có dự án nhóm và đảm nhận vai trò Group Leader (IE105) |
-| Độ đa dạng sản phẩm | ⭐⭐⭐⭐⭐ | Web app, e-commerce, AI app, malware detection, game Python |
-| Mức độ hoàn thiện hồ sơ kỹ thuật | ⭐⭐⭐⭐☆ | README, cấu trúc repo, mô tả stack và link demo đã có |
+<div align="center">
 
----
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rosy179&show_icons=true&theme=tokyonight&hide_border=true&locale=vi&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosy179&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 
-## 🏅 Một số chiến tích mình đạt được
-- 🥇 Làm **Group Leader** dự án IE105 về phát hiện malware Android.
-- 🌸 Xây dựng và deploy demo **BeautyAI** tích hợp AI phân tích da + thanh toán Stripe.
-- 📚 Hoàn thành chuỗi **LAB IE213** với nhiều chủ đề thực hành backend/database.
-- 🧩 Triển khai đa stack: **React/Next.js + Spring Boot/Flask + MySQL/Supabase**.
-- 🚀 Duy trì portfolio dự án công khai đa dạng để theo dõi quá trình phát triển cá nhân.
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- Commit Streak -->
+  <img src="https://streak-stats.demolab.com?user=rosy179&theme=tokyonight&hide_border=true&locale=vi&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- GitHub Trophies (auto-generated từ dữ liệu GitHub thực) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=rosy179&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rosy179&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+
+</div>
 
 ---
 
