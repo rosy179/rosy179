@@ -6,13 +6,13 @@
 ---
 
 ## ✨ Về mình
-- 🎓 Sinh viên Công nghệ Thông tin, tập trung phát triển **Web hiện đại**.
-- 💻 Mạnh về **Frontend** (React/Next.js), đồng thời làm **Full-stack** với Java Spring Boot, Flask và MySQL/Supabase.
+- 🎓 Sinh viên Công nghệ Thông tin.
+- 💻 **FullStack Engineer**
 - 🤖 Yêu thích các bài toán có yếu tố **AI thực chiến**: phân tích da, chatbot, phát hiện malware Android.
 
 ---
 
-## 🧰 Tech Stack của mình (visual hóa)
+## 🧰 Tech Stack của mình
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -45,47 +45,8 @@
 
 ---
 
-## 🚀 Dự án mình tự làm & đã tham gia
-
-### 🌸 Nổi bật
-- **[BeautyAI](https://github.com/rosy179/BeautyAI)** (Tự làm)
-  - Ứng dụng phân tích da bằng Face++ + chatbot + e-commerce.
-  - Stack: Flask, Python, MySQL, Stripe, OpenAI, HTML/CSS/JS.
-
-- **[IE105_WebFindAndroidMalware_2025](https://github.com/rosy179/IE105_WebFindAndroidMalware_2025)** (Làm nhóm, vai trò **Group Leader**)
-  - Hệ thống phát hiện malware Android (static/dynamic) có giao diện web upload APK.
-  - Stack: React + Vite + Tailwind, Flask, PyTorch, Scikit-learn.
-
-- **[LibraryManagement](https://github.com/rosy179/LibraryManagement)** (Làm nhóm)
-  - Website quản lý thư viện với user/admin portal.
-  - Stack: Next.js, Spring Boot, Supabase (PostgreSQL), Cloudinary.
-
-### 🌱 Các dự án khác
-- [doan_ie103](https://github.com/rosy179/doan_ie103) – Full-stack học phần (Spring Boot + Next.js).
-- [TheFoodiesApp](https://github.com/rosy179/TheFoodiesApp) – Frontend React + Vite.
-- [Udemy_NextJS](https://github.com/rosy179/Udemy_NextJS) – Thực hành Next.js + Node.js backend.
-- [first_project](https://github.com/rosy179/first_project) – React app khởi đầu.
-- [23521627-LeThiThuyTrang-IE213.Q21](https://github.com/rosy179/23521627-LeThiThuyTrang-IE213.Q21) – Tổng hợp LAB môn IE213.
-- [SnakeGame](https://github.com/rosy179/SnakeGame) – Game rắn săn mồi bằng Python/Pygame.
-- [Web](https://github.com/rosy179/Web) – Bài thực hành giao diện login HTML/CSS.
-- [BaiTapJV](https://github.com/rosy179/BaiTapJV) – Bài tập JavaScript cơ bản.
-- [UdemyReactPJ](https://github.com/rosy179/UdemyReactPJ) – Repo học React.
-
----
 
 ## 📊 GitHub Activity
-
-<div align="center">
-
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rosy179&show_icons=true&theme=tokyonight&hide_border=true&locale=vi&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosy179&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-
-</div>
-
-<br/>
 
 <div align="center">
 
